@@ -1,0 +1,4 @@
+Example commands:
+
+python model3_pipeline.py --file sample.mp4 --duration 40
+python model3_pipeline.py --url https://www.youtube.com/watch?v=XXXXX --duration 30
