@@ -1,0 +1,10 @@
+yt-dlp
+youtube-transcript-api
+requests
+numpy
+scikit-learn
+sentence-transformers
+opencv-python-headless
+Pillow
+openai-whisper
+google-generativeai
